@@ -1,0 +1,367 @@
+body {
+    background-color: beige;
+    font-family: sans-serif;
+    height: 1200px;
+    margin: 0;
+}
+
+.encabezado {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: normal;
+    font-family: "quicksand" sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: end;
+    margin-left: 45%;
+    flex-basis: 30%;
+    margin-right: 20px;
+}
+
+.nav-menu1 {
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav-menu2 {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-menu3 {
+    text-decoration: none;
+    color: black;
+}
+
+.resume {
+    font-family:sans-serif;
+    font-size: 42px;
+    height: 15%;
+    margin: 2% 2% 2% 7%;
+}
+.fullcv{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    color: #2A9192;
+    margin: 0 5% 0 7%;
+}
+#hr {
+    margin: 0 2% 0 2%;
+}
+.description{
+    display: flex;
+    margin: 0 5% 0 5%;
+}
+.edu-employ {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+
+.period{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+.description1{
+    display: flex;
+    margin: 0 5% 0 5%;
+}
+.edu-employ1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+
+.period1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities1{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+
+.description2{
+    display: flex;  
+    margin: 0 5% 0 5%;
+
+}
+.edu-employ2 {
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+.period2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities2{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+.description3{
+    display: flex;  
+    margin: 0 5% 0 5%;
+
+}
+.edu-employ3{
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+.period3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities3{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+.description4{
+    display: flex;  
+    margin: 0 5% 0 5%;
+
+}
+.edu-employ4{
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+.period4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities4{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+.description5{
+    display: flex;  
+    margin: 0 5% 0 5%;
+
+}
+.edu-employ5{
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+.period5{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities5{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+.description6{
+    display: flex;  
+    margin: 0 5% 0 5%;
+}
+.edu-employ6{
+    display: flex;
+    margin-left: 2%;
+    flex-basis: 50%;
+}
+.period6{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-basis: 14%;
+    justify-items: flex-end;
+    margin-left: 2%;
+    text-align: center;
+}
+.activities6{
+    font-family:Verdana, Geneva, Tahoma, sans-serifi;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 48%;
+    text-align: left;
+    margin-left: 2%;
+}
+.alinear-footer {
+    margin-top: 15px;
+    display: flex;
+    margin-left: 10%;
+}
+
+.email {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: .9em;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    width: 20%;
+    height: 40px;
+}
+
+.at {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .9em;
+    color: rgb(164, 159, 159);
+}
+
+.redsocial {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: .9em;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    width: 20%;
+    height: 40px;
+}
+
+.instag {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .9em;
+    color: rgb(164, 159, 159);
+}
+
+.copyright {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .5em;
+    color: rgb(164, 159, 159);
+    margin-left: 20px;
+    width: 30%;
+    display: flex;
+    text-align: right;
+    flex-direction: row-reverse;
+}
+
+.alinear-footer {
+    margin-top: 15px;
+    display: flex;
+    margin-left: 10%;
+}
+
+.email {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: .9em;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    width: 20%;
+    height: 40px;
+}
+
+.at {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .9em;
+    color: rgb(164, 159, 159);
+}
+
+.redsocial {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: .9em;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    width: 20%;
+    height: 40px;
+}
+
+.instag {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .9em;
+    color: rgb(164, 159, 159);
+}
+
+.copyright {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .5em;
+    color: rgb(164, 159, 159);
+    margin-left: 20px;
+    width: 30%;
+    display: flex;
+    text-align: right;
+    flex-direction: row-reverse;
+}

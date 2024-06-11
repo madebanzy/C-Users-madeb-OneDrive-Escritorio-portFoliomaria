@@ -1,0 +1,192 @@
+body {
+    background-color: beige;
+    font-family: sans-serif;
+    height: 1200px;
+    margin: 0;
+}
+
+.encabezado {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: normal;
+    font-family: "quicksand" sans-serif;
+    font-weight: bold;
+    font-size: large;
+  
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: end;
+    margin-left: 45%;
+    flex-basis: 30%;
+    margin-right: 20px;
+}
+
+.nav-menu1 {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-menu2 {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-menu3 {
+    text-decoration: none;
+    color: black;
+}
+
+.personal {
+    font-family:sans-serif;
+    font-size: 52px;
+    align-items: center;
+    height: 3%;
+    margin: 2% 2% 2% 42%;
+}
+.idonot{
+    font-family:sans-serif;
+    font-size: 28px;
+    align-items: center;
+    width: 100%;
+    color: #2A9192;
+    margin: 2% 5% 0 36%;
+}
+#hr1{
+    margin: 0% 2% 0 2%;
+}
+.titlleFamily {
+    font-size: 40px;
+    line-height: 70px;
+    color: black;
+    margin-left: 190px;
+    margin-top: 20px;
+    text-align: justify;
+  
+}
+.family {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    color: gray;
+    margin-top: 2%;
+    margin-left: 12%;
+    width: 80%;
+    display: flex;
+}  
+.cont-family{
+    flex-direction: column;
+    justify-content:flex-start;
+    margin-top: 5%;
+} 
+.photos{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    margin-left: 15%;
+}
+.img1{
+    gap: 0.5px;
+    padding: 8px;
+    border: 4px black solid;
+}
+.volunteering{
+    font-size: 40px;
+    line-height: 70px;
+    color: black;
+    margin-left: 190px;
+    margin-top: 20px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+.passion{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    color: gray;
+    margin-top: 1%;
+    margin-left: 12%;
+    width: 80%;
+    display: flex;
+}
+.pass-1{
+    flex-direction: column;
+    justify-content:flex-start;
+    margin-top: 3%;
+}
+.photos1{
+    display: flex;
+    margin-top: 3%;
+    width: 20%;
+    justify-content:flex-start;
+    margin-left: 16%;
+}
+.thinking{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgb(86, 84, 84);
+    margin-top: 2%;
+    margin-left: 12%;
+    width: 80%;
+    display: flex;
+}
+.alinear-footer {
+    margin-top: 35px;
+    display: flex;
+    margin-left: 10%;
+}
+
+.email {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: .9em;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    width: 20%;
+    height: 40px;
+}
+
+.at {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .9em;
+    color: rgb(164, 159, 159);
+}
+
+.redsocial {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: .9em;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    width: 20%;
+    height: 40px;
+}
+
+.instag {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .9em;
+    color: rgb(164, 159, 159);
+}
+
+.copyright {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: .5em;
+    color: rgb(164, 159, 159);
+    margin-left: 20px;
+    width: 30%;
+    display: flex;
+    text-align: right;
+    flex-direction: row-reverse;
+}
